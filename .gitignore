@@ -1,0 +1,9 @@
+# Ignorar carpetas de compilación de PyInstaller
+build/
+dist/
+
+# Ignorar archivos de caché de Python
+limpiador_temporales/__pycache__/
+
+# Ignorar archivos de especificación de PyInstaller
+*.spec
